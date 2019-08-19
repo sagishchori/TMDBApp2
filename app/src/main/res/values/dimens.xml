@@ -1,0 +1,13 @@
+<resources>
+
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="list_item_height">88dp</dimen>
+    <dimen name="space">16dp</dimen>
+    <dimen name="space_double">32dp</dimen>
+
+    <!-- Text Sizes -->
+    <dimen name="text_16">16sp</dimen>
+    <dimen name="text_28">28sp</dimen>
+    <dimen name="text_12">12sp</dimen>
+    <dimen name="movie_details_text_box_width">50dp</dimen>
+</resources>

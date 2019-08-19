@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TMDB-App</string>
+    <string name="action_add_to_favorite">Add to favorite</string>
+    <string name="api_key">f51c193130cfc1955e8f474058ee6923</string>
+
+    <string name="no_results_string">לא נמצאו תוצאות</string>
+    <string name="year">Year:</string>
+    <string name="rating">Rating:</string>
+    <string name="favorite_movies_label">Favorite Movies List</string>
+</resources>
